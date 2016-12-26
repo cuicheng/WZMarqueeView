@@ -8,7 +8,7 @@ DESC
 s.homepage         = "https://github.com/wangzz/WZMarqueeView"
 # s.screenshots      = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
 s.license          = 'MIT'
-s.author           = { "cuicheng" => "cui13828475909@sina.com" }
+s.author           = { "ccc10086" => "cui13828475909@sina.com" }
 s.source           = { :git => "https://github.com/cuicheng/WZMarqueeView.git", :tag => s.version.to_s }
 # s.social_media_url = 'https://twitter.com/NAME'
 s.platform     = :ios, '8.0'
